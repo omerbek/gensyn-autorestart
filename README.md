@@ -62,7 +62,7 @@ while true; do
     echo "$(date '+%Y-%m-%d %H:%M:%S') ❌ $screen_name screen is closed"
   fi
 
-  sleep 300  # Check every 5 minutes
+  sleep 300  # Check every 5 minutes if you want you can edit waiting time.
 done
 ```
 
