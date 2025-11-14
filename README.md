@@ -93,8 +93,8 @@ screen -S gensyn
 Run the main script inside this screen:
 ```
 printf "n\n\n" | bash run_rl_swarm.sh
-```
-
+```**
+Since the code is a start command for the previous command, it restarts it by pressing the up arrow key and the enter key.**
 This initializes the Gensyn process in the gensyn screen.
 
 ✅ Summary
